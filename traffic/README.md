@@ -20,6 +20,6 @@ tnpm start
 
 ## 示例说明
 
-参考系列文章 
+参考系列文章    
 http://www.jscon.cc/redux-series-1/  
 http://yq.aliyun.com/users/1813023998679768?spm=5176.blog2633.yqblogcon1.1.t7sNxN
